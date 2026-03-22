@@ -6,3 +6,5 @@ Adicionado os projetos "first_program", "gerador" e "historias_inteligentes". As
 Adicionado o projeto "calculadora". Onde aprendi sobre variaveis, expressões e calculos.
 
 Adicionado o projeto "numbers". Onde aprendi durante a semana sobre declarações de if e else para tomada de decisões em python, booleanos e condições complexas.
+
+Adicionado novos projetos focados na pratica do if/elif/else e condições complexas: "emprestimos", "calculadora_notas" e "jogo_aventura"
