@@ -10,3 +10,5 @@ Adicionado o projeto "numbers". Onde aprendi durante a semana sobre declaraçõe
 Adicionado novos projetos focados na pratica do if/elif/else e condições complexas: "emprestimos", "calculadora_notas" e "jogo_aventura"
 
 Adicionado projetos praticos de aprendizado de loops com while e for 
+
+Adicionado projetos praticos de lista 
