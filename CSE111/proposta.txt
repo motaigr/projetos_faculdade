@@ -1,0 +1,37 @@
+CSE 111 Proposta para um Programa Escolhido pelo Estudante
+
+    (Esta é uma proposta. Todas as propostas são escritas com o nosso melhor
+    conhecimento no início de um projeto. À medida que avançamos do início
+    ao fim de um projeto, adquirimos mais conhecimento e mudamos algumas
+    das ideias propostas. Isso faz parte da conclusão de qualquer projeto
+    e não há problema. No entanto, ainda precisamos escrever uma proposta
+    para que nossos professores ou supervisores saibam o que pretendemos
+    fazer. Por favor, responda a cada uma das perguntas a seguir da melhor
+    forma possível com base no seu conhecimento.)
+
+1. Qual é o título do seu programa?
+
+    (Sistema de Triagem Odontológica)
+
+2. Que problema do mundo real o seu programa vai abordar ou ajudar a resolver?
+
+    (Auxiliar dentistas no processo de triagem dos pacientes, tornando o processo 
+    de registrar e buscar informações mais eficiente e identificar divergências 
+    entre consultas anteriores e atuais, alertando o profissional sobre mudanças 
+    no quadro do paciente.)
+
+3. O que você aprenderá ao desenvolver este programa?
+
+    (Aprofundar o uso de dicionários em Python, manipulação de arquivos CSV 
+    e organização de funções com parâmetros e retorno de valores.)
+
+4. Quais módulos Python o seu programa usará?
+
+    (CSV, datetime)
+
+5.Liste os nomes das funções de que você precisará.
+
+    (entrada_paciente, busca_por_paciente, salvar_consulta, comparar_respostas, main)
+
+6. Liste os nomes das funções de teste que você escreverá.
+(test_buscar_paciente, test_comparar_respostas, test_salvar_consulta)
